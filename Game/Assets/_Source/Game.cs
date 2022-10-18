@@ -27,10 +27,5 @@ namespace Core
         {
             _score.End();
         }
-
-        void Update()
-        {
-            
-        }
     }
 }

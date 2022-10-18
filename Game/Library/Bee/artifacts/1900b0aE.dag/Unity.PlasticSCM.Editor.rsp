@@ -117,9 +117,9 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/zWork/Unity/Mini Clicker/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
--r:"C:/zWork/Unity/Mini Clicker/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll"
--r:"C:/zWork/Unity/Mini Clicker/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/zWork/UnityGitHub/mini-clicker/Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"C:/zWork/UnityGitHub/mini-clicker/Game/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"C:/zWork/UnityGitHub/mini-clicker/Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"C:/zWork/UnityVersion/Unity 2021.3.9f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/zWork/UnityVersion/Unity 2021.3.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/zWork/UnityVersion/Unity 2021.3.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"

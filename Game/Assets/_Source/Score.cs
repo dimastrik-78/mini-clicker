@@ -11,7 +11,10 @@ public class Score
     {
         score = startScore;
     }
-
+    public void RemoveScore()
+    {
+        score--;
+    }
     public void AddScore()
     {
         score++;
